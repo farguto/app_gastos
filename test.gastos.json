@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "664676de0fc8031180038afc"
+  },
+  "nombre": "Federico",
+  "importe": "3",
+  "fecha": "jueves 16 de mayo de 2024",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664677460fc8031180038aff"
+  },
+  "nombre": "Pedro",
+  "importe": "110",
+  "fecha": "miercoles 15 de mayo de 2024",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646813887c1ef0d8a8d9461"
+  },
+  "nombre": "Maria",
+  "importe": "127",
+  "fecha": "miercoles 15 de mayo de 2024",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664686e9d4c02d30bb1d7070"
+  },
+  "nombre": "Pablo",
+  "importe": "2000",
+  "fecha": "martes 14 de mayo de 2024",
+  "__v": 0
+}]
